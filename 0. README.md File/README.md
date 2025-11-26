@@ -4,7 +4,7 @@
 The dataset for car sales has been provided, which captures daily transactional and pricing information for vehicles sold at Bright Motors. My duty is to analyse the data and extract actionable insights from the historical car sales and prepare a presentation that will help guide future sales and marketing strategies.
 
 ## *Objectives*
-Determine;
+Determine:
 
 - Which car makes and models generate the most revenue
 - The relationship between price, mileage and year of manufacture
